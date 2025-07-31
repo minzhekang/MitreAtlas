@@ -68,6 +68,9 @@ The tool generates an output JSON file (output.json by default), structured like
 ```
 You can optionally disable scores using the -r flag.
 
+### Consolidated Tactics
+![alt text](image.png)
+
 ## Quick Start
 ### Install dependencies
 ```bash
